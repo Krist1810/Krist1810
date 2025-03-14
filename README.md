@@ -1,5 +1,7 @@
 <h1 align="center"><b>Hi there, I'm Kristian</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 align="center">Student at 4Geeks Academy.</h3>
 
+<br>
 
 <!--
 **Krist1810/Krist1810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
