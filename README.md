@@ -15,6 +15,16 @@
 - :nerd_face: Always `searching for documentation`.
 <br>
 
-<h3>Let's Connect </h3>
-<br><br>
-<a href="https://www.linkedin.com/in/kristian-pacheco-7916931b0/" target="_blank"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<h3>🌐 Let's Connect</h3>
+
+<a href="https://www.linkedin.com/in/kristian-pacheco-7916931b0/"> 
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/kriztooo_/">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+
+<a href="https://x.com/kristianpac18">
+  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
+</a>
