@@ -14,3 +14,7 @@
 - :student: I’m currently learning `Full-Stack Development`.
 - :nerd_face: Always `searching for documentation`.
 <br>
+
+<h3>Let's Connect </h3>
+<br><br>
+<a href="https://www.linkedin.com/in/kristian-pacheco-7916931b0/" target="_blank"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
