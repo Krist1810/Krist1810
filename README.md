@@ -1,8 +1,6 @@
 <h1 align="center"><b>Hi there, I'm Kristian</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">Full Stack Development</h3>
 
-<br>
-
 <br><br>
 
 - :school: I am a `Student` at [4Geeks Academy](https://4geeks.com/).
